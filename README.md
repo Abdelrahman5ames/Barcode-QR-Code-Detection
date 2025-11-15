@@ -102,8 +102,8 @@ Contributions are welcome! Feel free to fork the repo, open issues, or submit pu
 
 **Abdelrahman Abozarifa**
 
-* GitHub: [@abdelrahman-abozarifa04](https://https://github.com/Abdelrahman5ames)
-* Email: [as0144549@gmail.com](mailto:abdelrahmanahmedkhamiss@gmail.com)
+* GitHub: (https://github.com/Abdelrahman5ames)
+* Email: (mailto:abdelrahmanahmedkhamiss@gmail.com)
 
 ---
 
